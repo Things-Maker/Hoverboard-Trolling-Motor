@@ -8,9 +8,7 @@ This is intended to be used as Kayak trolling motor controller and does not need
 
 
 
-
-
-https://www.dropbox.com/s/daj1zya4qnvmm5e/Git1.JPG?dl=0
+![Git1](https://user-images.githubusercontent.com/87578488/127781139-0d29bc93-0cf3-438f-87da-88d3c4f0bc4c.JPG)
 
 
 1-Battery: Stock 36V 4400mah Hoverboard battery
@@ -20,6 +18,7 @@ https://www.dropbox.com/s/daj1zya4qnvmm5e/Git1.JPG?dl=0
 3-Wheels: ~6" Stock
 
 
-https://www.dropbox.com/s/daj1zya4qnvmm5e/Git1.JPG?dl=0
+![Kayak](https://user-images.githubusercontent.com/87578488/127781203-78cf54a7-cf76-4bf8-8afe-75fde5c9b577.jpg)
+
 
 
